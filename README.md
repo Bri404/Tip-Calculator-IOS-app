@@ -5,7 +5,7 @@
 
 Submitted by: **Briana Williams**
 
-Time spent: **2 1/2** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
